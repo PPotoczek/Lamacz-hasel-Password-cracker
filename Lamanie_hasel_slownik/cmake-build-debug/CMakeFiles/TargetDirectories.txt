@@ -1,0 +1,3 @@
+/home/riveri/CLionProjects/Lamanie_hasel_slownik/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/riveri/CLionProjects/Lamanie_hasel_slownik/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/riveri/CLionProjects/Lamanie_hasel_slownik/cmake-build-debug/CMakeFiles/Lamanie_hasel_slownik.dir

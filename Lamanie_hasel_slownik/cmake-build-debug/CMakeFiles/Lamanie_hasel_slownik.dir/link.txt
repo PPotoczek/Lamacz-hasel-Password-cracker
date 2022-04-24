@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Lamanie_hasel_slownik.dir/main.c.o -o Lamanie_hasel_slownik  -lpthread -lssl -lcrypto -lm 
